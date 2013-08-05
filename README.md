@@ -4,7 +4,7 @@ Lousson: Message/AMQP
 [![Build Status](https://travis-ci.org/lousson/message-amqp.png?branch=master)]
 (https://travis-ci.org/lousson/message-amqp)
 
-The `Lousson_Message_AMQP` package is a plugin for `Lousson_Message` that
+The `Lousson_Message_AMQP` package is an extension for `Lousson_Message` that
 provides an **AMQP** integration with the messaging facilities, based on the
 `pecl/AMQP` extension.
 
